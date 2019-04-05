@@ -1,4 +1,4 @@
-# granulator
+# Granulator
 I developed this patch after the idea of having an easily controlled granulator which allows to create a continuous but dynamic flow of sound that could be used for example as an instrument in live sampling performances.
 
 Every grain has size and frequency randomly choosen in the range [central-deviation; central+deviation] and its amplitude is modulated by a window.
