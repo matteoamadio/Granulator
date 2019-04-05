@@ -10,3 +10,5 @@ Every grain parameter is used to modulate a sample randomly chosen from the load
 The resulting grain is then a mix between the sample and the oscillator output.
 
 The number of voices can be set from 1 up to 50, and they are automatically spatialized with a given ramp time over 2 o 4 channels, basing on the choice of the performer.
+
+extract1.wav, fm_samples3.aif and fm_samples5.aif are three audio files that can be used to try the patch immediately, fm_samples3.aif is loaded on startup.
